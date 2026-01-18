@@ -125,6 +125,19 @@ Potential improvements include:
 
 ---
 
+## Ethics, Incident Handling & Evidence
+
+This project includes comprehensive documentation covering governance, ethics, and operational workflows, aligned with academic research standards and real-world SOC practices.
+
+### Included Documentation
+- **Ethics & Compliance**: Legal, ethical, and privacy considerations for defensive cybersecurity research.
+- **Incident Workflow**: Detection, triage, escalation, and post-incident review processes based on SOC operating models.
+- **Evidence Handling**: Redacted log samples, configuration evidence, and research traceability aligned with the MSc dissertation.
+
+These materials demonstrate responsible security research, audit readiness, and operational awareness expected in public-sector and enterprise security environments.
+
+---
+
 ## Disclaimer
 This project is for **educational and professional demonstration purposes only**.  
 All sensitive data, identifiers, IP addresses, and credentials have been **sanitised or removed**.  
